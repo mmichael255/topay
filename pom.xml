@@ -6,6 +6,7 @@
 	<artifactId>topay</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>{project.artifactId}</name>
+	<packaging>pom</packaging>
 	<url/>
 	<modules>
 		<module>topay-eureka</module>
