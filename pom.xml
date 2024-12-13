@@ -9,7 +9,6 @@
 	<packaging>pom</packaging>
 	<url/>
 	<modules>
-		<module>topay-zookeeper</module>
 		<module>topay-gateway</module>
 	</modules>
 	<properties>

@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: topay-eureka
-  cloud:
-    zookeeper:
-      connect-string: localhost:2181
